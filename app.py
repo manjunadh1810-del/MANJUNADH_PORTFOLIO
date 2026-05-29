@@ -276,7 +276,7 @@ st.markdown("---")
 # CONTACT SECTION
 st.header("📞 Contact")
 
-st.write("📧 Email: mademanjunadh.com")
+st.write("📧 Email: mademanjunadh@gmail.com")
 
 st.write("💼 LinkedIn: https://www.linkedin.com/in/manjuanadh-prakash-madem-3ba71636a?utm_source=share_via&utm_content=profile&utm_medium=member_android")
 
